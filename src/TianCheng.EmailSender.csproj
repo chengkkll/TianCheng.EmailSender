@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NETCore.MailKit" Version="2.0.2" />
+    <PackageReference Include="TianCheng.BaseService" Version="2.0.1" />
+    <PackageReference Include="TianCheng.DAL.MongoDB" Version="2.0.2" />
+    <PackageReference Include="TianCheng.Model" Version="2.0.4" />
+  </ItemGroup>
+
+</Project>
